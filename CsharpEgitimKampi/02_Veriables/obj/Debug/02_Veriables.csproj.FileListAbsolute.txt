@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe.config
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.pdb
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.pdb

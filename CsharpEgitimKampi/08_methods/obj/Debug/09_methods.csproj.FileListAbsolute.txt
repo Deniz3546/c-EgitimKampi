@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\bin\Debug\09_methods.exe.config
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\bin\Debug\09_methods.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\bin\Debug\09_methods.pdb
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\obj\Debug\09_methods.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\obj\Debug\09_methods.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\obj\Debug\09_methods.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\09_methods\obj\Debug\09_methods.pdb

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1DF4-3343-4C54-91EC-D888D6C44492}|03_Making_Desicion\\03_Making_Desicion.csproj|c:\\users\\deniz\\desktop\\csharpegitimkampi\\03_making_desicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1DF4-3343-4C54-91EC-D888D6C44492}|03_Making_Desicion\\03_Making_Desicion.csproj|solutionrelative:03_making_desicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9F97F-3E33-4DC0-88C8-C4D0DDF5303F}|09_methods\\09_methods.csproj|C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\09_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9F97F-3E33-4DC0-88C8-C4D0DDF5303F}|09_methods\\09_methods.csproj|solutionrelative:09_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8D24E-FBDF-44E3-92E8-08A1471B2A3F}|08_ForeachLoop\\08_ForeachLoop.csproj|C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\08_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8D24E-FBDF-44E3-92E8-08A1471B2A3F}|08_ForeachLoop\\08_ForeachLoop.csproj|solutionrelative:08_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28512B-1C4E-4A88-880B-E0F7F0FF1774}|06_Arrays\\06_Arrays.csproj|C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28512B-1C4E-4A88-880B-E0F7F0FF1774}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D459380-1EEC-4831-A90F-04B5B67A6DAF}|04_loops\\04_loops.csproj|C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D459380-1EEC-4831-A90F-04B5B67A6DAF}|04_loops\\04_loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C097CCB-5CC2-4041-B933-7F8A8CA15CC5}|LoopsWithStars\\LoopsWithStars.csproj|C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C097CCB-5CC2-4041-B933-7F8A8CA15CC5}|LoopsWithStars\\LoopsWithStars.csproj|solutionrelative:loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\03_Making_Desicion\\Program.cs",
+              "RelativeDocumentMoniker": "03_Making_Desicion\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\03_Making_Desicion\\Program.cs",
+              "RelativeToolTip": "03_Making_Desicion\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:05:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\09_methods\\Program.cs",
+              "RelativeDocumentMoniker": "09_methods\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\09_methods\\Program.cs",
+              "RelativeToolTip": "09_methods\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:54:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\08_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "08_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\csharpEgitimi\\CsharpEgitimKampi\\08_ForeachLoop\\Program.cs*",
+              "RelativeToolTip": "..\\csharpEgitimi\\CsharpEgitimKampi\\08_ForeachLoop\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:46:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAWwEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:05:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\LoopsWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "LoopsWithStars\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\LoopsWithStars\\Program.cs",
+              "RelativeToolTip": "LoopsWithStars\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:09:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\04_loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_loops\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\CsharpEgitimKampi\\04_loops\\Program.cs",
+              "RelativeToolTip": "04_loops\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:57:53.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

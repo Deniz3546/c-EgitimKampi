@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\bin\Debug\03_Making_Desicion.exe.config
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\bin\Debug\03_Making_Desicion.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\bin\Debug\03_Making_Desicion.pdb
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\obj\Debug\03_Making_Desicion.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\obj\Debug\03_Making_Desicion.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\obj\Debug\03_Making_Desicion.exe
+C:\Users\deniz\Desktop\csharpEgitimi\CsharpEgitimKampi\03_Making_Desicion\obj\Debug\03_Making_Desicion.pdb

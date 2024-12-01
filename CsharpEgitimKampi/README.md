@@ -38,4 +38,4 @@ foreach ile ekrana dizideki cift ve tek sayılar yazdırıldı
 
 proje 9:
 geriye deger dondurmeyen parametreli metotlar ile consola yazı yazıldı  geriye değer dondy-urmegen metodlarlaa toplama işlemi yapıldı  
-Not 7.proje foreach ve 8. proje metotlardır 
+
